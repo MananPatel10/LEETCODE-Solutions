@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/0704-binary-search) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
@@ -50,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/1512-number-of-good-pairs) |
+## Sorting
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
