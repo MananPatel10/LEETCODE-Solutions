@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0268-missing-number](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/0704-binary-search) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -42,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
@@ -55,9 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
