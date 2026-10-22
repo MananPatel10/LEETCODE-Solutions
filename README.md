@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/0704-binary-search) |
+| [0832-flipping-an-image](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/0832-flipping-an-image) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1470-shuffle-the-array](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/1470-shuffle-the-array) |
@@ -29,9 +30,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/0283-move-zeroes) |
+| [0832-flipping-an-image](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/0832-flipping-an-image) |
 | [1389-create-target-array-in-the-given-order](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/1929-concatenation-of-array) |
@@ -42,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -72,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/0268-missing-number) |
+| [0832-flipping-an-image](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/0832-flipping-an-image) |
 ## String
 |  |
 | ------- |
