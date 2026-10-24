@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/0832-flipping-an-image) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1470-shuffle-the-array](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/1470-shuffle-the-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/0832-flipping-an-image) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/1929-concatenation-of-array) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/0268-missing-number) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1512-number-of-good-pairs](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
