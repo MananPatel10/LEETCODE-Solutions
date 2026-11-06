@@ -1,35 +1,25 @@
+
 class Solution {
-
     public boolean canJump(int[] nums) {
-        int[] dp = new int[nums.length];
 
-        Arrays.fill(dp, -1);
+        int maxReach = 0;
 
-        return solve(nums, 0, dp);
-    }
+        for (int i = 0; i < nums.length; i++) {
 
-    public boolean solve(int[] nums, int index, int[] dp) {
+            // Current index is unreachable
+            if (i > maxReach) {
+                return false;
+            }
 
-        // Reached last index
-        if (index >= nums.length - 1) {
-            return true;
-        }
+            // Update farthest reachable index
+            maxReach = Math.max(maxReach, i + nums[i]);
 
-        // Already calculated
-        if (dp[index] != -1) {
-            return dp[index] == 1;
-        }
-
-        // Try maximum jump first
-        for (int jump = nums[index]; jump >= 1; jump--) {
-
-            if (solve(nums, index + jump, dp)) {
-                dp[index] = 1;
+            // We can reach the last index
+            if (maxReach >= nums.length - 1) {
                 return true;
             }
         }
 
-        dp[index] = 0;
-        return false;
+        return true;
     }
 }
