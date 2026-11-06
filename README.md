@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0055-jump-game](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/0055-jump-game) |
 | [0268-missing-number](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/0704-binary-search) |
@@ -86,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/MananPatel10/LEETCODE-Solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
